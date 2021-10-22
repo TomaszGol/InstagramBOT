@@ -6,7 +6,7 @@ from time import sleep
 ACCOUNT_EMAIL = "" 
 ACCOUNT_PASSWORD = ""
 SIMILAR_ACCOUNT = ""
-chrome_driver_path = "C:\Development\chromedriver.exe"
+chrome_driver_path = ""
 
 
 class InstaFollower:
